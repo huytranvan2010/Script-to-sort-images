@@ -7,6 +7,7 @@ Hướng dẫn chạy:
 python sort_images.py --source source --destination destination --format .jpg
 ```
 Ở đây truyền vào 3 tham số:
+    
     - `--source`: path dẫn đến nơi lưu ảnh ban đầu
     - `--destination`: path dẫn đến nơi lưu ảnh mới được đánh số
     - `--format`: định dạng của ảnh, có thể truyeenf vào `jpg`, `png`...
